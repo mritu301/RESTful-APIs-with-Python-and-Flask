@@ -1,9 +1,0 @@
-# Create folders
-$ mkdir project && cd project && mkdir resources
-
-# Create files
-$ touch app.py migrate.py Model.py requirements.txt run.py config.py && cd resources && touch Hello.py && cd ../
-
-PostgreSQL DataBase
-password : mj@may2020
-port no :  5432
